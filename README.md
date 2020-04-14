@@ -5,4 +5,6 @@ Partie avant : Insirée du modèle de YOUFACTORY (https://grabcad.com/library/co
 Le "coeur" au centre sert à ajouter de la souplesse dans la monture et à la renrdre moins cassante.
 Les branches sont inspirées de retroLab (https://retrolabs.com/3d-prints/3d-printed-face-shield-with-10-mil-pvc).
 
+La monture est prévue pour une feuille A4 avec des trous de 6mm especé de 80mm (standart classeur A4 4 trous).
+
 Découpés en PMMA de 6mm.
